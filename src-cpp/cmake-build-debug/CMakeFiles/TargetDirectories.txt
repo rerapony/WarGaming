@@ -1,0 +1,3 @@
+/home/valeria/WarGaming/src-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valeria/WarGaming/src-cpp/cmake-build-debug/CMakeFiles/src_cpp.dir
+/home/valeria/WarGaming/src-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
